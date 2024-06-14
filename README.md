@@ -5,6 +5,7 @@ Code accompanying the Udemy course, The Modern Python 3 Bootcamp by [Colt Steele
 ## Subjects 📓
 
 - data types
+- conditional logic
 
 ## Tools 🛠️
 
