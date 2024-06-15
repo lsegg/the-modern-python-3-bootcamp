@@ -6,6 +6,7 @@ Code accompanying the Udemy course, The Modern Python 3 Bootcamp by [Colt Steele
 
 - data types
 - conditional logic
+- loops
 
 ## Tools 🛠️
 
