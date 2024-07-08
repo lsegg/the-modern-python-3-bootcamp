@@ -7,8 +7,8 @@ Code accompanying the Udemy course, The Modern Python 3 Bootcamp by [Colt Steele
 - data types
 - conditional logic
 - loops
-- lists
-- lists comprehension
+- lists & list comprehension
+- dictionaries & dictionary comprehension
 
 ## Tools 🛠️
 
