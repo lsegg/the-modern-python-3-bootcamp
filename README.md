@@ -9,6 +9,7 @@ Code accompanying the Udemy course, The Modern Python 3 Bootcamp by [Colt Steele
 - loops
 - lists & list comprehension
 - dictionaries & dictionary comprehension
+- tuples & sets
 
 ## Tools 🛠️
 
