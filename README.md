@@ -10,6 +10,7 @@ Code accompanying the Udemy course, The Modern Python 3 Bootcamp by [Colt Steele
 - lists & list comprehension
 - dictionaries & dictionary comprehension
 - tuples & sets
+- functions
 
 ## Tools 🛠️
 
